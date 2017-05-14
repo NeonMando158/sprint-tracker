@@ -1,0 +1,65 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+#network-status {
+    vertical-align: super;
+    font-size: medium;
+    color: grey;
+}
+
+#network-status.connected {
+    color: #FF0084;
+}
+
+ul {
+    list-style: none;
+    margin: 0 0 0 0;
+    padding: 0 0 25px 0;
+}
+
+#board {
+    display: table;
+}
+
+.card {
+    cursor: pointer;
+    font-size: 80%;
+}
+
+.card-text {
+    padding: 7px 22px 16px 12px;
+}
+
+.card-text .delete {
+    cursor: pointer;
+    font-weight: bold;
+    float: right;
+}
+
+.state-column {
+    width: 150px;
+    display: table-cell;
+    margin-right: -1px;
+}
+
+.clear {
+    clear: both;
+}
+
+aside {
+    padding-right: 25px;
+}
+
+.headline {
+    font-weight: bold;
+    height: 2em;
+    color: #000000;
+    text-align: center;
+}
+
+footer {
+    font-size: 80%;
+    color: #808080;
+    padding-top: 3em;
+}

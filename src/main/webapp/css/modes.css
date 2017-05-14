@@ -1,0 +1,19 @@
+.card {
+    width: 185px;
+    height: 112px;
+    background-repeat: no-repeat;
+    margin-bottom: 1em;
+    margin-right: 5px;
+}
+
+#TODO .card {
+    background-position: 0 0;
+}
+
+#WIP .card {
+    background-position: 0 -112px;
+}
+
+#DONE .card {
+    background-position: 0 -224px;
+}

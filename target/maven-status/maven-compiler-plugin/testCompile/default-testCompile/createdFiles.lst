@@ -1,0 +1,7 @@
+config/VrandeshJerseyApplicationTest.class
+repository/AllCardsTest.class
+repository/RepositoryAssertions.class
+resource/SprintTrackerServerTest.class
+websocket/SprintTrackerWebSocketTest.class
+repository/CardAssert.class
+websocket/WebSocketTest.class
