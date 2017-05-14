@@ -5,7 +5,7 @@ No of Sprints = 1 (for case of excercise)
 
 Solution & Approach
 
-1. For the following task I have chosen OOPs Javascript to build the Main Interface Class
+1. For the following task I have chosen OOPs Javascript & Maven Jetty Test Driven Deployment to build the Solution. Refer .java files for the Card Class and sample outline of how i began solving the problem via javascript as well.s
 
 	function Iteration(sprintname, sprintnumber, columns, duration, velocity ){
 		this.name = {sprintname, sprintnumber};
